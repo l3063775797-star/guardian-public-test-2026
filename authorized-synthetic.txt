@@ -1,0 +1,3 @@
+# Credential Guardian authorized synthetic test
+# This value is intentionally fake and must never be used.
+client_secret = "GuardianSyntheticOnly_20260928_NotValid"
