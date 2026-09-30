@@ -1,0 +1,2 @@
+experiment_id=GITHUB-FORMAL-20260930-03
+client_secret=CGT_GITHUB_FORMAL_03_6kD9R3mV8qN2xB7sH4c5
